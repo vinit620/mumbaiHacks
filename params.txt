@@ -1,0 +1,15 @@
+0. Credit score, Gaurantor (Co-signer), ...
+1. Cashflow (transaction)
+2. SIP
+3. Pension Funds
+4. Equity
+5. Commodities
+6. Bonds
+7. FD
+8. Insaurance
+
+
+we have unique problem to solve we are basically building the model which will goona give the credibility score same as credit score but the deciding parametes for this will be different we are going to dicide the the parameters based on the data coming in the json format basically we are building this model for the people who does not have the credit score so on the credibility of there parameters will give them score which will be as effective as credit
+
+
+as in that json format we have some null values but i have to generate the final estimated code by considering all the parameters for example if any person have only sip score and all the remaining score is null but that sip score really for the its credibility so while generating the credibility score should generate great and can you also help us to solve this issue that consider all the parameters with different test cases
